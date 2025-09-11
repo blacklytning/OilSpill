@@ -1,7 +1,5 @@
-# Custom
- api/__pycache__
- api/deeplab_model.h5
- todo
+*.h5
+todo
 
 # Logs
 logs
