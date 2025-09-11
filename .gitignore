@@ -1,3 +1,8 @@
+*.h5
+*.pth
+*__pycache__
+todo
+
 # Logs
 logs
 *.log
@@ -22,3 +27,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
